@@ -43,7 +43,7 @@ public class Person {
             lines.add(line);
         }
 
-        int randomLineIndex = (int) getRandomNumber(0, linesCount);
+        int randomLineIndex = (int) getRandomNumber(0, linesCount-1);
 
         return lines.get(randomLineIndex);
     }

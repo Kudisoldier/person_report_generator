@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="686dff45-ab50-445e-9be2-2f6591ca7bcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/female_names_rus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/male_names_rus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/male_surnames_rus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/edu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edu/data_generator/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edu/data_generator/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edu/data_generator/PersonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edu/data_generator/PersonGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edu/pdf_generator/PdfTableGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edu/pdf_generator/PdfTableGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1681388565974</updated>
       <workItem from="1681388567492" duration="6287000" />
-      <workItem from="1681408780181" duration="9886000" />
+      <workItem from="1681408780181" duration="10557000" />
+      <workItem from="1681486816584" duration="7176000" />
     </task>
     <servers />
   </component>

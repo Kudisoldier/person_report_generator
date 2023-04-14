@@ -3,7 +3,7 @@ To run the project execute command in root of repository:
 
 Got data from https://github.com/Raven-SL/ru-pnames-list
 
-Got sities from https://gist.github.com/helart/96225136a784f8a3987398be96456dce
+Got cities from https://gist.github.com/helart/96225136a784f8a3987398be96456dce
 
 For male person:
 male_surname + male_name + male_name + "ович"

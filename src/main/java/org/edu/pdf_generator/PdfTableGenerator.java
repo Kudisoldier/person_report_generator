@@ -10,7 +10,8 @@ import com.lowagie.text.pdf.BaseFont;
 
 
 public class PdfTableGenerator {
-    public static final String FONT = System.getProperty("user.dir") + "/src/main/resources/arial.ttf";
+    public static final ClassLoader classloader = Thread.currentThread().getContextClassLoader();
+    public static final String FONT = classloader.getResource("arial.ttf").toExternalForm();
 
     public static PdfPCell getNormalCell(String string) throws com.lowagie.text.DocumentException, IOException {
         BaseFont bf=BaseFont.createFont(FONT, BaseFont.IDENTITY_H, BaseFont.EMBEDDED);

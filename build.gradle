@@ -24,3 +24,7 @@ test {
 application {
     mainClass = 'org.edu.Main'
 }
+
+run {
+    standardInput = System.in
+}
